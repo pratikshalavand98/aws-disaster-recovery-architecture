@@ -32,6 +32,66 @@ This project demonstrates a production-grade Disaster Recovery (DR) architecture
 
 ---
 
+# Project Screenshots
+
+## Step 1 - VPC Creation
+
+![VPC](screenshots/01-vpc.png.png)
+
+---
+
+## Step 2 - Internet Gateway
+
+![Internet Gateway](screenshots/04-internet-gateway.png.png)
+
+---
+
+## Step 3 - Primary EC2 Instance
+
+![Primary EC2](screenshots/05-primary-ec2.png.png)
+
+---
+
+## Step 4 - Amazon RDS MySQL
+
+![Amazon RDS](screenshots/06-primary-rds.png.png)
+
+---
+
+## Step 5 - S3 Cross Region Replication Rule
+
+![S3 Replication Rule](screenshots/09-s3-replication-rule.png.png)
+
+---
+
+## Step 6 - Replicated Object in Ohio Bucket
+
+![Replicated Object](screenshots/10-replicated-object.png.png)
+
+---
+
+## Step 7 - Amazon RDS Read Replica
+
+![RDS Read Replica](screenshots/11-rds-read-replica.png.png)
+
+---
+
+## Step 8 - Ohio EC2 Instance
+
+![Ohio EC2](screenshots/12-ohio-ec2.png.png)
+
+---
+
+## Step 9 - Disaster Recovery Website
+
+![DR Website](screenshots/13-dr-website.png.png)
+
+---
+
+## Step 10 - Disaster Recovery Validation
+
+![DR Success](screenshots/16-dr-success.png.png)
+
 # Primary Region
 
 **Region**
