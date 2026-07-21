@@ -459,7 +459,7 @@ Achievements
 
 # Author
 
-**Name:** Aditya
+**Name:** Pratiksha Lavand
 
 **Role:** Cloud Reliability Engineer (Intern)
 
